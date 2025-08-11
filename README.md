@@ -1,2 +1,2 @@
 # olist-data-analysis
-Analisi del dataset Olist con SQL e Power BI
+Analysis of the Olist dataset with SQL and Power BI
