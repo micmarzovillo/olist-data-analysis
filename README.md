@@ -19,4 +19,10 @@ Analyzing e-commerce data from the public **Olist** dataset with SQL (PostgreSQL
 - **SQL** for creating queries and calculating KPIs
 - **Power BI** for creating dashboards and interactive visualizations
 
+## 📊 Dashboard Power BI
+
 The dashboard report is available in PDF format directly in the repository.
+It contains:
+- Order timeline analysis
+- Logistics performance
+- Geographic and behavioral analysis
